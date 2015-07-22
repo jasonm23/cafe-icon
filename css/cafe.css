@@ -55,7 +55,9 @@
 
 .icon-cup:before{content:'\0041';}
 
-.grbold   { font-family: "GothamRoundedBold" }
-.grbook   { font-family: "GothamRoundedBook" }
-.grmedium { font-family: "GothamRoundedMedium" }
-.grlight  { font-family: "GothamRoundedLight" }
+.grbold   { font-family: "GothamRoundedBold"; }
+.grbook   { font-family: "GothamRoundedBook"; }
+.grmedium { font-family: "GothamRoundedMedium"; }
+.grlight  { font-family: "GothamRoundedLight"; }
+
+.SA .keylabels { font-family: "GothamRoundedLight"; }
